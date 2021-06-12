@@ -29,7 +29,7 @@ const busStops = [
   function move() {
     setTimeout(() =>{
       if (counter >= busStops.length) return;
-      marker,setLngLat(busStops[counter]);
+      marker.setLngLat(busStops[counter]);
       counter++;
       move();
     }, 1000);
