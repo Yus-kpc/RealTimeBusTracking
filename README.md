@@ -6,3 +6,9 @@
 
 # How to run
 You can run this program by simply clicking on the grey button at the top which says hich says "Bus stops between Toke station and the valley".
+
+# Roadmap on future improvements
+I wish to expand the makers to other lines for the town.
+
+# License information
+MIT pro
